@@ -13,7 +13,7 @@ A simple portfolio app for you to showcase youor work on react framework include
 
 ### Music Master
 An app like a search engine for Music which display the Music of the Artsit by searching on the search bar and it will display the Picture, Followers, Genre, and the top ten albums of the Artist.
-Whole app works from the **Spotify API**.
+Whole app works from the **Spotify API**. (Extended version of this app will be uploaded)
 
 ### Starter
 Just a simple react starter app which is the first app everyone makes before starting Reat
