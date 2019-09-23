@@ -9,7 +9,7 @@ This is repository for web applications created using the popular JavaScript fra
 Simply clone and just install dependencies for each project by `npm i --save` and just run by using `npm run dev`
 
 ### Portfolio
-A simple portfolio app for you to showcase youor work on react framework includes the Jokes section (for extended version of this portfolio see the repository of **React-Portfolio**)
+A simple portfolio app for you to showcase your work on react framework includes the Jokes section (for extended version of this portfolio see the repository of **React-Portfolio**)
 
 ### Music Master
 An app like a search engine for Music which display the Music of the Artsit by searching on the search bar and it will display the Picture, Followers, Genre, and the top ten albums of the Artist.
